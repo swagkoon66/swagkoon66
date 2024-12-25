@@ -1,5 +1,12 @@
-## Hi there 👋
+### Hello there 😲
+## "I have the _High ground_"
 
+My name is Pongrawee Thepchai, nickname: Koon.
+My main allias is swagkoon66.
+I'm a first year student at the faculty of Information and Communication Technology
+,Mahidol University(Salaya,Nakhon Pathom,Thailand).
+
+This is my personal github, mostly, using for hand in assignments and many more projects to come...
 <!--
 **swagkoon66/swagkoon66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
