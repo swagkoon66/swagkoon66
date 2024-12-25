@@ -1,5 +1,5 @@
 # Hello there 😲
-## "I have the _High ground_"
+## "I have the High ground"
 
 My name is Pongrawee Thepchai, Koon.
 
