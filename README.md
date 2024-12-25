@@ -1,7 +1,7 @@
-### Hello there 😲
+# Hello there 😲
 ## "I have the _High ground_"
 
-My name is Pongrawee Thepchai, nickname: Koon.
+My name is Pongrawee Thepchai, Koon.
 My main allias is swagkoon66.
 I'm a first year student at the faculty of Information and Communication Technology
 ,Mahidol University(Salaya,Nakhon Pathom,Thailand).
