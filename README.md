@@ -6,7 +6,7 @@ My name is Pongrawee Thepchai, Koon.
 My main allias is ***swagkoon66***.
 
 I'm a first year student at the faculty of
-Information and Communication Technology
+Information and Communication Technology \
 ,Mahidol University(Salaya,Nakhon Pathom,Thailand).
 
 This is my personal github, mostly, using for storing assignments and many more projects to come...
