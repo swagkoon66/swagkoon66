@@ -3,7 +3,7 @@
 
 My name is Pongrawee Thepchai, Koon.
 
-My main allias is rgb(200,50,50)swagkoon66.
+My main allias is rgb(200,50,50) swagkoon66.
 
 I'm a first year student at the faculty of
 Information and Communication Technology
