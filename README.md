@@ -10,7 +10,7 @@ Information and Communication Technology
 ,Mahidol University(Salaya,Nakhon Pathom,Thailand).
 
 This is my personal github, mostly, using for storing assignments and many more projects to come...
-\
+
 <!--
 **swagkoon66/swagkoon66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
