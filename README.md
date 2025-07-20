@@ -1,7 +1,7 @@
 # Hello there 😲
 ## "I have the High ground"
 
-My name is Pongrawee Thepchai, Koon.
+My name is Koon.
 
 My main allias is ***swagkoon66***.
 
