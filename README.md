@@ -1,11 +1,11 @@
 # Hello there 😲
 ## "I have the High ground"
 
-My name is Koon.\
+My name is Koon.
 
-My main allias is ***swagkoon66***.\
+My main allias is ***swagkoon66***.
 
-I'm a first year student at the faculty of \
+I'm a first year student at the faculty of
 Information and Communication Technology, Mahidol University (Salaya,Nakhon Pathom,Thailand).
 
 This is my personal github, mostly, using for storing assignments and many more projects to come...
