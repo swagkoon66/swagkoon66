@@ -1,10 +1,11 @@
 # Hello there 😲
 ## "I have the High ground"
 
-My name is Koon, also allias is ***swagkoon66***.
+My name is Koon, also known as ***swagkoon66***. <br>
 
 I'm a ~~first~~ ~~second~~ third year student at the faculty of
-Information and Communication Technology, Mahidol University (Salaya,Nakhon Pathom,Thailand).
+Information and Communication Technology, <br>
+Mahidol University (Salaya,Nakhon Pathom,Thailand).<br>
 
 This is my personal github, mostly, using for storing assignments and many more projects to come...
 
